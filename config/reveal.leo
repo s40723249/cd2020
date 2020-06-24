@@ -24,16 +24,16 @@
 <v t="leo.20200624105719.1"><vh>封面投影片</vh>
 <v t="leo.20200624105719.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200624105721.1"><vh>封面投影片</vh>
+<v t="leo.20200624105721.1"><vh>W2</vh>
 <v t="leo.20200624105721.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200624105723.1"><vh>封面投影片</vh>
+<v t="leo.20200624105723.1"><vh>W3</vh>
 <v t="leo.20200624105723.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
+<v t="leo.20180902120523.11"><vh>W5</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180902120523.13"><vh>W6</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -43,6 +43,27 @@
 <v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
+</v>
+<v t="leo.20200624111447.1"><vh>W7</vh>
+<v t="leo.20200624111447.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200624111449.1"><vh>W9</vh>
+<v t="leo.20200624111449.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200624111456.1"><vh>W10</vh>
+<v t="leo.20200624111456.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200624111452.1"><vh>W12</vh>
+<v t="leo.20200624111452.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200624111454.1"><vh>W13</vh>
+<v t="leo.20200624111454.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200624111451.1"><vh>W14</vh>
+<v t="leo.20200624111451.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200624111534.1"><vh>W16</vh>
+<v t="leo.20200624111534.2"><vh>封面投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -341,19 +362,19 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200624105719.2">## CD2020 課程簡介
+<t tx="leo.20200624105719.2">## CD2020 課程簡介 W2-7
 
-* W2-先建立github倉儲，在clone到自己的隨身系統及分組
-* W3-更新Python為3.8.2版本並直播分配工作
-* W5-第二次直播
-* W6-學習直播串流
-* W7-V-rep四輪車並用程式控制
-* W9-段考周，並用OBS錄影直播串流拍攝期中影片
-* W10-啟用Google API
-* W12-V-rep虛擬主機
-* W13-IPv4 Ubuntu對外連線設定操作
-* W14-Bridged IPv6 遠端控制設定
-* W16-IPv6 IPv6 連個人倉儲</t>
+** W2-先建立github倉儲，在clone到自己的隨身系統及分組
+** W3-更新Python為3.8.2版本並直播分配工作
+** W5-第二次直播 並完成任務1
+** W6-學習直播串流
+** W7-V-rep四輪車並用程式控制
+** W9-段考周，並用OBS錄影直播串流拍攝期中影片
+** W10-啟用Google API
+** W12-V-rep虛擬主機
+** W13-IPv4 Ubuntu對外連線設定操作
+** W14-Bridged IPv6 遠端控制設定
+** W16-IPv6 IPv6 連個人倉儲</t>
 <t tx="leo.20200624105721.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -363,18 +384,14 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200624105721.2">## CMSimfly 網際內容管理
+<t tx="leo.20200624105721.2">## CD2020 課程簡介 W9-16
 
-### KMOLab
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
+** W9-段考周，並用OBS錄影直播串流拍攝期中影片，並完成任務2
+** W10-啟用Google API
+** W12-V-rep虛擬主機
+** W13-IPv4 Ubuntu對外連線設定操作
+** W14-Bridged IPv6 遠端控制設定
+** W16-IPv6 IPv6 連個人倉儲</t>
 <t tx="leo.20200624105723.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -390,6 +407,153 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200624111447.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624111447.2">## CMSimfly 40723249
+
+### KMOLab
+
+&lt;small&gt;
+Created by [40723249](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200624111449.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624111449.2">## CMSimfly 40723249
+
+### KMOLab
+
+&lt;small&gt;
+Created by [40723249](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200624111451.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624111451.2">## CMSimfly 40723249
+
+### KMOLab
+
+&lt;small&gt;
+Created by [40723249](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200624111452.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624111452.2">## CMSimfly 40723249
+
+### KMOLab
+
+&lt;small&gt;
+Created by [40723249](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200624111454.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624111454.2">## CMSimfly 40723249
+
+### KMOLab
+
+&lt;small&gt;
+Created by [40723249](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200624111456.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624111456.2">## CMSimfly 40723249
+
+### KMOLab
+
+&lt;small&gt;
+Created by [40723249](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200624111534.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624111534.2">## CMSimfly 40723249
+
+### KMOLab
+
+&lt;small&gt;
+Created by [40723249](http://lab.kmol.info/)
 &lt;/small&gt;
 
 [CMSimfly 網誌](./../blog/index.html)
