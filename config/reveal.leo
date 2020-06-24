@@ -30,14 +30,11 @@
 <v t="leo.20200624105721.1"><vh>W2</vh>
 <v t="leo.20200624105721.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>W5</vh>
-<v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20200624111449.1"><vh>W9</vh>
+<v t="leo.20200624111449.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20200624111447.1"><vh>W7</vh>
 <v t="leo.20200624111447.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20200624111449.1"><vh>W9</vh>
-<v t="leo.20200624111449.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20200624111456.1"><vh>W10</vh>
 <v t="leo.20200624111456.2"><vh>封面投影片內容</vh></v>
@@ -73,14 +70,6 @@ Created by [40723249](http://lab.kmol.info/)
 &lt;/small&gt;
 
 [CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20180902120523.11"></t>
-<t tx="leo.20180902120523.12">## Assignment2
-
-
-
 
 
 </t>
@@ -329,15 +318,13 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200624111449.2">## CMSimfly 40723249
+<t tx="leo.20200624111449.2">## Assignment2
 
-### KMOLab
 
-&lt;small&gt;
-Created by [40723249](http://lab.kmol.info/)
-&lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
+
+
+
 
 
 </t>
