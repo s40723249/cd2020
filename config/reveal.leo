@@ -254,11 +254,11 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624105719.2">## CD2020 課程簡介 W2-7
 
-** W2-先建立github倉儲，在clone到自己的隨身系統及分組
-** W3-更新Python為3.8.2版本並直播分配工作
-** W5-第二次直播 並完成任務1
-** W6-學習直播串流
-** W7-V-rep四輪車並用程式控制
+* W2-先建立github倉儲，在clone到自己的隨身系統及分組
+* W3-更新Python為3.8.2版本並直播分配工作
+* W5-第二次直播 並完成任務1
+* W6-學習直播串流
+* W7-V-rep四輪車並用程式控制
 </t>
 <t tx="leo.20200624105721.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -271,12 +271,12 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200624105721.2">## CD2020 課程簡介 W9-16
 
-** W9-段考周，並用OBS錄影直播串流拍攝期中影片，並完成任務2
-** W10-啟用Google API
-** W12-V-rep虛擬主機
-** W13-IPv4 Ubuntu對外連線設定操作
-** W14-Bridged IPv6 遠端控制設定
-** W16-IPv6 IPv6 連個人倉儲</t>
+* W9-段考周，並用OBS錄影直播串流拍攝期中影片，並完成任務2
+* W10-啟用Google API
+* W12-V-rep虛擬主機
+* W13-IPv4 Ubuntu對外連線設定操作
+* W14-Bridged IPv6 遠端控制設定
+* W16-IPv6 IPv6 連個人倉儲</t>
 <t tx="leo.20200624105723.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
