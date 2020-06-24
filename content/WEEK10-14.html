@@ -187,8 +187,27 @@ img.add_border {
 <p><em>6.用ls來顯示，在用cd進入資料夾內</em></p>
 <p><em>7.輸入./coppeliaSim.sh來開啟Vrep</em></p>
 <p><em><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/1nkXyGIw-28" width="560"></iframe></em></p>
-<p><em></em></p>
-<p>week13</p>
+<p><em></em>week13</p>
+<p>IPv4 Ubuntu對外連線設定操作</p>
+<p>1. 先開啟VirtualBox並用上次的cd2020pj1，喜好設定--&gt;網路--&gt;新增--&gt;連接阜轉送</p>
+<p>2. 主機IP打127.0.0.1，客體IP 10.0.2.15 主機連接阜分別為19999、22、17443、18443客體連接阜分別為19999、22、7443、8443</p>
+<p>3.設定--&gt;網路--&gt;改成NAT網路</p>
+<p>4.啟動虛擬主機</p>
+<p>5.輸入密碼kmol2020，點選LXTerminal</p>
+<p>6.輸入--&gt;iconfig--&gt;sudo apt net-tools --&gt;輸入密碼kmol2020</p>
+<p><img alt="" height="351" src="./../images/chrome_2020-06-04_15-58-13.png" width="468"/></p>
+<p>7.打cd tmp --&gt;ls --&gt;輸入ping 127.0.0.1測試</p>
+<p>8.進入cd2020pj1--&gt;git pull--&gt;sudo vi wsgi.py</p>
+<p>9.把host的地方改成10.0.2.4 --&gt;按ESC--&gt;輸入wq儲存</p>
+<p>10.開啟LEO--&gt;打開cd2020pj1.leo--&gt;點選NAV尋找allowExt</p>
+<p>11.點fileuploadfrom，第10行新增一個ttt檔，完成後存儲並關閉leo</p>
+<p>12.在tmp新增oauth_scrum.txt，打sudo vi oauth_scrum.txt</p>
+<p>13.按i編輯，內容先都可以，接著按Esc並輸入:wq存儲</p>
+<p>14.輸入python3 wsgi.py</p>
+<p>15.帳號及密碼都為admin，點fileuploadform，選要上傳的ttt檔</p>
+<p>16.點選download list檢查檔案是否上傳完成</p>
+<p><img alt="" height="403" src="./../images/VirtualBox_MJfFiXOZ8P.png" width="546"/></p>
+<p>week14</p>
 <p><em>Bridged IPv6 遠端控制設定</em></p>
 <p><em>1.首先設定IPV6的內容</em></p>
 <p><em>2.在喜好設定設定IPV6參數</em></p>
