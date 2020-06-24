@@ -24,25 +24,14 @@
 <v t="leo.20200624105719.1"><vh>封面投影片</vh>
 <v t="leo.20200624105719.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200624105721.1"><vh>W2</vh>
-<v t="leo.20200624105721.2"><vh>封面投影片內容</vh></v>
-</v>
 <v t="leo.20200624105723.1"><vh>W3</vh>
 <v t="leo.20200624105723.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200624105721.1"><vh>W2</vh>
+<v t="leo.20200624105721.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>W5</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20180902120523.13"><vh>W6</vh>
-<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
-<v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20180902120523.18"><vh>導入影片</vh>
-<v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
-</v>
 </v>
 <v t="leo.20200624111447.1"><vh>W7</vh>
 <v t="leo.20200624111447.2"><vh>封面投影片內容</vh></v>
@@ -87,101 +76,13 @@ Created by [40723249](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180902120523.12"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20180902120523.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180902120523.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+<t tx="leo.20180902120523.11"></t>
+<t tx="leo.20180902120523.12">## Assignment2
 
 
 
-						
-</t>
-<t tx="leo.20180902120523.15"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
 
 
-
-						
-</t>
-<t tx="leo.20180902120523.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180902120523.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180902120523.19">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
@@ -369,12 +270,7 @@ vertical: body pane on the botton</t>
 ** W5-第二次直播 並完成任務1
 ** W6-學習直播串流
 ** W7-V-rep四輪車並用程式控制
-** W9-段考周，並用OBS錄影直播串流拍攝期中影片
-** W10-啟用Google API
-** W12-V-rep虛擬主機
-** W13-IPv4 Ubuntu對外連線設定操作
-** W14-Bridged IPv6 遠端控制設定
-** W16-IPv6 IPv6 連個人倉儲</t>
+</t>
 <t tx="leo.20200624105721.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -401,15 +297,10 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200624105723.2">## CMSimfly 網際內容管理
+<t tx="leo.20200624105723.2">## Assignment1
 
-### KMOLab
 
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
 
 
 </t>
@@ -422,15 +313,10 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200624111447.2">## CMSimfly 40723249
+<t tx="leo.20200624111447.2">## Final project
 
-### KMOLab
 
-&lt;small&gt;
-Created by [40723249](http://lab.kmol.info/)
-&lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
 
 
 </t>
