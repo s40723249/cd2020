@@ -252,9 +252,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200624105719.2">## CD2020 課程簡介 W2-7
-
-* W2-先建立github倉儲，在clone到自己的隨身系統及分組
+<t tx="leo.20200624105719.2">* W2-先建立github倉儲，在clone到自己的隨身系統及分組
 * W3-更新Python為3.8.2版本並直播分配工作
 * W5-第二次直播 並完成任務1
 * W6-學習直播串流
