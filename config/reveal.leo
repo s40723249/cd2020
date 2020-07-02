@@ -61,7 +61,8 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 40723249
+<t tx="leo.20180902120523.10">## 40723249 CAD2020
+機械設計工程系 協同產品設計與實習
 
 ### KMOLab
 
@@ -69,8 +70,8 @@
 Created by [40723249](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
-
+[倉儲](https://github.com/s40723249/cd2020)
+[網站](https://s40723249.github.io/cd2020/content/index.html)
 
 </t>
 <t tx="leo.20180902120523.2"></t>
@@ -252,12 +253,13 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200624105719.2">* W2-先建立github倉儲，在clone到自己的隨身系統及分組
-* W3-更新Python為3.8.2版本並直播分配工作
-* W5-第二次直播 並完成任務1
-* W6-學習直播串流
-* W7-V-rep四輪車並用程式控制
-</t>
+<t tx="leo.20200624105719.2">## WEEK1 建立個人倉儲並編譯網站
+
+* 建立自己倉儲，將2019fall可攜式套件載入自己隨身碟裡
+* git submodule add https://github.com/mdecourse/cmsimde cmsimde
+* 建立 cmsimde 目錄, 並從 github 取下子模組內容.
+* 近端維護時, 更換目錄到倉儲中的 cmsimde, 以 python wsgi.py 啟動近端網際伺服器.
+* 動態內容編輯完成後, 以 generate_pages 轉為靜態內容, 以 git add  git commit  git push 將內容推到遠端.</t>
 <t tx="leo.20200624105721.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -284,8 +286,12 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200624105723.2">## Assignment1
+<t tx="leo.20200624105723.2">## WEEK2 更新Python版本至3.8.2
 
+* 到 https://www.python.org/downloads/release/python-382/https://www.python.org/downloads/release/python-382/ 下載 Windows x86-64 executable installer，載完後執行python-3.8.2-amd64.exe
+* 取消pip，選next
+* 建立start.bat
+* 下載缺少模組
 
 
 
