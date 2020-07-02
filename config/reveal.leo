@@ -51,6 +51,21 @@
 <v t="leo.20200624111534.1"><vh>W16</vh>
 <v t="leo.20200624111534.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200702105354.1"><vh>W16</vh>
+<v t="leo.20200702105354.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200702105356.1"><vh>W16</vh>
+<v t="leo.20200702105356.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200702105630.1"><vh>W16</vh>
+<v t="leo.20200702105630.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200702105632.1"><vh>W16</vh>
+<v t="leo.20200702105632.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200702111055.1"><vh>W16</vh>
+<v t="leo.20200702111055.2"><vh>封面投影片內容</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -269,14 +284,9 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200624105721.2">## CD2020 課程簡介 W9-16
+<t tx="leo.20200624105721.2">## 第一次小組會議
 
-* W9-段考周，並用OBS錄影直播串流拍攝期中影片，並完成任務2
-* W10-啟用Google API
-* W12-V-rep虛擬主機
-* W13-IPv4 Ubuntu對外連線設定操作
-* W14-Bridged IPv6 遠端控制設定
-* W16-IPv6 IPv6 連個人倉儲</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HXS95dlMSv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624105723.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -306,10 +316,12 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200624111447.2">## Final project
+<t tx="leo.20200624111447.2">## WEEK6 直播教學
 
-
-
+* 下載OBS軟體
+* 將YOUTUBE金鑰複製到OBS上
+* 開始串流
+* 進行直播
 
 
 </t>
@@ -322,7 +334,9 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200624111449.2">## Assignment2
+<t tx="leo.20200624111449.2">## 第二次小組會議
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uwy9vv7_9s0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
@@ -341,18 +355,9 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200624111451.2">## CMSimfly 40723249
+<t tx="leo.20200624111451.2">## 第三次小組會議
 
-### KMOLab
-
-&lt;small&gt;
-Created by [40723249](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jr4IxIwdHLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624111452.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -362,16 +367,9 @@ Created by [40723249](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200624111452.2">## CMSimfly 40723249
+<t tx="leo.20200624111452.2">## WEEK9 其中影片
 
-### KMOLab
-
-&lt;small&gt;
-Created by [40723249](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
+https://drive.google.com/file/d/1Wepc028C7mwb0AY3bxHQ7QVcDswX8nb-/view
 
 </t>
 <t tx="leo.20200624111454.1">&lt;section data-markdown&gt;
@@ -383,17 +381,9 @@ Created by [40723249](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200624111454.2">## CMSimfly 40723249
+<t tx="leo.20200624111454.2">## WEEK10 Google用戶
 
-### KMOLab
-
-&lt;small&gt;
-Created by [40723249](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zQKwpmERhsE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20200624111456.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -404,18 +394,9 @@ Created by [40723249](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200624111456.2">## CMSimfly 40723249
+<t tx="leo.20200624111456.2">## WEEK7 V-REP四輪車
 
-### KMOLab
-
-&lt;small&gt;
-Created by [40723249](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/avj4XsINX-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200624111534.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -425,15 +406,90 @@ Created by [40723249](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200624111534.2">## CMSimfly 40723249
+<t tx="leo.20200624111534.2">## WEEK11 Ubuntu設置
 
-### KMOLab
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1nkXyGIw-28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200702105354.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-&lt;small&gt;
-Created by [40723249](http://lab.kmol.info/)
-&lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
+						
+</t>
+<t tx="leo.20200702105354.2">## 第四次小組會議
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/q_bKmJw3Hn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200702105356.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200702105356.2">## WEEK14 Bridged IPv6 遠端控制設定
+
+* 先設定IPV6的內容
+* 喜好設定設定IPV6參數
+* 啟動虛擬主機 輸入密碼
+* cd tmp -&gt;cd cd2020pj1 -&gt;git pull -&gt; ls -&gt;cd docs -&gt; cd cmsimde -&gt; vi wsgi.py
+* 更改host成自己主機IP
+* 打開putty輸入想要連線的IP並設定
+* 打開XLaunch
+* 輸入xterm&amp;
+* cd tmp -&gt;cd cd2020pj1 -&gt;git pull -&gt; ls -&gt;cd docs -&gt; cd cmsimde -&gt; vi wsgi.py 即可</t>
+<t tx="leo.20200702105630.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200702105630.2">## WEEK14抽點
+
+[倉儲](https://github.com/mdecourse/cdbw14-2)
+[網站](http://mde.tw/cdbw14-2/content/40723249.html)
+
+</t>
+<t tx="leo.20200702105632.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200702105632.2">## WEEK16 IPV6連個人倉儲
+
+* 設定IPV6網路以及虛擬主機網路
+* 啟動虛擬主機
+* 打開Lxterminal
+* clone自己倉儲
+* 查詢ipv6地址
+* 輸入指令 sudo vi wsgi.py把ipv6地址輸入進host
+* 輸入python3 wsgi.py啟動
+* 輸入網址https://[2001:288:6004:17:2020:2:0:7247]:18443
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tJ_kWLoSdJY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200702111055.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200702111055.2">## WEEK17 期末影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1KhKkTfCGX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
